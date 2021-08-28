@@ -93,7 +93,7 @@ class ComponentConfigsParser {
         const {pydio, displayMode} = props;
         let repoType;
         let res = {
-            displayMode : displayMode || 'list',
+            displayMode : displayMode || 'grid-160',
             defaultSortingInfo : {sortType:'file-natural',attribute:'',direction:'asc'}
         };
         try{

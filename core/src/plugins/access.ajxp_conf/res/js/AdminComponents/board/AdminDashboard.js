@@ -219,7 +219,7 @@ const AdminDashboard = React.createClass({
                 height: 50
             };
             appBarRight = (
-                <div style={style}>Pydio Community Distribution{logo}</div>
+                <div ></div>
             );
         }
         const userWidgetStyle = {

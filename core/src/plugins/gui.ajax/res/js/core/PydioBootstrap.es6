@@ -195,7 +195,7 @@ export default class PydioBootstrap{
 
         let div = document.createElement('div');
         div.setAttribute('style', 'position:absolute; bottom: 0; right: 0; z-index: 2000; color:rgba(0,0,0,0.6); font-size: 12px; padding: 0 10px;');
-        div.innerHTML = 'Pydio Community Edition - Copyright Abstrium 2017 - Learn more on <a href="https://pydio.com" target="_blank">pydio.com</a>';
+        div.innerHTML = '';
         document.body.appendChild(div);
 
     }

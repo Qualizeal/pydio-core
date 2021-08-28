@@ -74,7 +74,6 @@ html {
   overflow-x: hidden;
 }
 * {
-  -moz-user-select: -moz-none;
   -webkit-user-select: none;
   -ms-user-select: none;
       user-select: none;
@@ -2049,7 +2048,6 @@ div.pydio-tasks-panel div.task.task-status-8 .task_actions > span {
 }
 .react-mui-context .joyride-beacon {
   -webkit-appearance: none;
-  -moz-appearance: none;
   appearance: none;
   background-color: transparent;
   border: 0;
@@ -2207,7 +2205,6 @@ div.pydio-tasks-panel div.task.task-status-8 .task_actions > span {
 }
 .react-mui-context .joyride-tooltip__close {
   -webkit-appearance: none;
-  -moz-appearance: none;
   appearance: none;
   background-color: transparent;
   border: 0;
@@ -2263,7 +2260,6 @@ div.pydio-tasks-panel div.task.task-status-8 .task_actions > span {
 }
 .react-mui-context .joyride-tooltip__button {
   -webkit-appearance: none;
-  -moz-appearance: none;
   appearance: none;
   background-color: transparent;
   border: 0;

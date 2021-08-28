@@ -70,8 +70,8 @@ export default function(PydioComponent, pydio){
 
             let themeCusto = {
                 palette: {
-                    primary1Color       : '#325e74',
-                    primary2Color       : colors.deepOrange500,
+                    primary1Color       : '#273272',
+                    primary2Color       : '#9d9ec0',
                     accent1Color        : colors.deepOrange500,
                     accent2Color        : colors.lightBlue500,
                     avatarsColor        : '#438db3',
